@@ -4,14 +4,14 @@ Agradecemos su atención y colaboración.
 
 Diseñadores:
 
-Juan David Dussan Pedromo
+Juan David Dussan Pedromo -
 enlace
 
-Diego Felipe Gutierrez Rojas
+Diego Felipe Gutierrez Rojas -
 enlace
 
-Luis Alejandro Rodriguez Salcedo
+Luis Alejandro Rodriguez Salcedo -
 enlace
 
-Juan Pablo Alvarez Mendoza
+Juan Pablo Alvarez Mendoza -
 https://github.com/JuanPabloAlvarezMendoza
