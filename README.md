@@ -5,7 +5,7 @@ Agradecemos su atención y colaboración.
 Diseñadores:
 
 Juan David Dussan Pedromo -
-enlace
+https://github.com/Juandaviddussan121
 
 Diego Felipe Gutierrez Rojas -
 enlace
